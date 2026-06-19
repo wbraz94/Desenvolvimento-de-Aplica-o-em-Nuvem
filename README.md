@@ -5,14 +5,13 @@
 ---
 
 ## 📌 Cabeçalho
-
+Link github pages : https://wbraz94.github.io/Desenvolvimento-de-Aplica-o-em-Nuvem/
 | Item | Descrição |
 |------|-----------|
 | Disciplina | Desenvolvimento de Aplicação em Nuvem |
 | Modalidade | [Dupla] |
-| Integrantes 
-| [Welerson Sousa] 
-| [Jamile Barbosa]
+| Integrantes | [Welerson Sousa] 
+| | [Jamile Barbosa]
 | Banco Escolhido | Supabase (PostgreSQL) |
 
 ## 🎯 Sobre o Projeto
